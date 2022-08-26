@@ -1,6 +1,74 @@
 [
     {
-        "name":"EotE",
-        "description": "Edge of the Empire"
+        "name": "EotE",
+        "description": "Edge of the Empire",
+        "game": "EotE",
+        "type": "Core Rulebook"
+    },
+    {
+        "name": "ND",
+        "description": "No Disintegrations",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "DC",
+        "description": "Dangerous Covenants",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "EtU",
+        "description": "Enter The Unknown",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "FC",
+        "description": "Fly Casual",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "FH",
+        "description": "Far Horizons",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "SM",
+        "description": "Special Modifications",
+        "game": "EotE",
+        "type":"Career Sourcebook"
+    },
+    {
+        "name": "MotPQ",
+        "description": "Mask of The Pirate Queen",
+        "game": "EotE",
+        "type":"Adventure Module"
+    },
+    {
+        "name": "BtR",
+        "description": "Beyond the Rim",
+        "game": "EotE",
+        "type":"Adventure Module"
+    },
+    {
+        "name": "JoY",
+        "description": "Jewel of Yavin",
+        "game": "EotE",
+        "type":"Adventure Module"
+    },
+    {
+        "name": "MotPQ",
+        "description": "Lords of the Nal Hutta",
+        "game": "EotE",
+        "type":"Location Sourcebook"
+    },
+    {
+        "name": "SoF",
+        "description": "Suns of Fortune",
+        "game": "EotE",
+        "type":"Location Sourcebook"
     }
 ]
