@@ -5,7 +5,10 @@
         "specializations": [
             { "name": "assassin", "sources": ["EotE.59"]},
             { "name": "gadgeteer", "sources": ["EotE.60"]},
-            { "name": "survivalist", "sources": ["EotE.61"]}
+            { "name": "survivalist", "sources": ["EotE.61"]},
+            { "name": "martial artist", "sources": ["ND.29"]},
+            { "name": "operator", "sources": ["ND.31"]},
+            { "name": "skip tracer", "sources": ["ND.33"]}
         ]
     },
     {
