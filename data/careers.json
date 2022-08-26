@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Bounty Hunter",
+        "sources":["EotE.56"],
+        "specializations": [
+            { "name": "assassin", "sources": ["EotE.59"]},
+            { "name": "gadgeteer", "sources": ["EotE.60"]},
+            { "name": "survivalist", "sources": ["EotE.61"]}
+        ]
+    },
+    {
+        "name":"Colonist",
+        "sources":["EotE.62"],
+        "specializations": [
+            { "name": "doctor", "sources": ["EotE.65"]},
+            { "name": "politico", "sources": ["EotE.66"]},
+            { "name": "scholar", "sources": ["EotE.67"]}
+        ]
+    },
+    {
+        "name":"Explorer",
+        "sources":["EotE.69"],
+        "specializations": [
+            { "name": "fringer", "sources": ["EotE.71"]},
+            { "name": "scout", "sources": ["EotE.72"]},
+            { "name": "trader", "sources": ["EotE.73"]}
+        ]
+    },
+    {
+        "name":"Hired Gun",
+        "sources":["EotE.74"],
+        "specializations": [
+            { "name": "bodyguard", "sources": ["EotE.77"]},
+            { "name": "marauder", "sources": ["EotE.78"]},
+            { "name": "mercenary", "sources": ["EotE.79"]}
+        ]
+    },
+    {
+        "name":"Smuggler",
+        "sources":["EotE.80"],
+        "specializations": [
+            { "name": "pilot", "sources": ["EotE.83"]},
+            { "name": "scoundrel", "sources": ["EotE.84"]},
+            { "name": "thief", "sources": ["EotE.85"]}
+        ]
+    },
+    {
+        "name":"Technician",
+        "sources":["EotE.86"],
+        "specializations": [
+            { "name": "mechanic", "sources": ["EotE.89"]},
+            { "name": "outlaw tech", "sources": ["EotE.90"]},
+            { "name": "slicer", "sources": ["EotE.91"]}
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "name":"bothan",
+        "sources":["EotE.43"],
+        "force_restriction": false,
+        "initial_stats": {
+            "characteristics": {
+                "brawn": 1,
+                "agility": 2,
+                "intellect": 2,
+                "cunning": 3,
+                "willpower": 2,
+                "presence": 2
+            },
+            "wounds": 10,
+            "strain":11,
+            "xp": 100,
+            "special_abilities": [ { "name": "Streetwise", "ranks": 1 }, { "name": "Convincing Demeanor", "ranks": 1} ]
+        },
+        "languages": ["bothan", "basic"]
+        
+    },
+    {
+        "name":"droid",
+        "sources":["EotE.45"]
+    },
+    {
+        "name":"gand",
+        "sources":["EotE.47"]
+    },
+    {
+        "name":"human",
+        "sources":["EotE.48"]
+    },
+    {
+        "name":"rodian",
+        "sources":["EotE.49"]
+    },
+    {
+        "name":"trandoshan",
+        "sources":["EotE.50"]
+    },
+    {
+        "name":"twi'lek",
+        "sources":["EotE.51"]
+    },
+    {
+        "name":"wookie",
+        "sources":["EotE.52"]
+    }
+]
