@@ -1,74 +1,211 @@
 [
     {
-        "name": "EotE",
-        "description": "Edge of the Empire",
+        "name": "Edge of the Empire",
+        "description": "Star Wars: Edge of the Empire Roleplaying Game",
+        "abbreviation": "EotE",
         "game": "EotE",
-        "type": "Core Rulebook"
+        "type": "Core Rulebook",
+        "isbn": "978-61661-657-1",
+        "sku": "SWE02"
     },
     {
-        "name": "ND",
-        "description": "No Disintegrations",
+        "name": "No Disintegrations",
+        "description": "A Sourcebook for Bounty Hunters",
+        "abbreviation": "ND",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-311-2",
+        "sku": "SWE16"
     },
     {
-        "name": "DC",
-        "description": "Dangerous Covenants",
+        
+        "name": "Dangerous Covenants",
+        "description": "A Sourcebook for Hired Guns",
+        "abbreviation": "DC",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-61661-687-8",
+        "sku": "SWE08"
     },
     {
-        "name": "EtU",
-        "description": "Enter The Unknown",
+        
+        "name": "Enter The Unknown",
+        "description": "A Sourcebook for Explorers",
+        "abbreviation": "EtU",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-61661-683-0",
+        "sku": "SWE06"
     },
     {
-        "name": "FC",
-        "description": "Fly Casual",
+        
+        "name": "Fly Casual",
+        "description": "A Sourcebook for Smugglers",
+        "abbreviation": "FC",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-068-5",
+        "sku": "SWE12"
     },
     {
-        "name": "FH",
-        "description": "Far Horizons",
+        
+        "name": "Far Horizons",
+        "description": "A Sourcebook for Colonists",
+        "abbreviation": "FH",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-61661-691-5",
+        "sku": "SWE10"
     },
     {
-        "name": "SM",
-        "description": "Special Modifications",
+        
+        "name": "Special Modifications",
+        "description": "A Sourcebook for Technicians",
+        "abbreviation": "SM",
         "game": "EotE",
-        "type":"Career Sourcebook"
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-249-8",
+        "sku": "SWE14"
     },
     {
-        "name": "MotPQ",
-        "description": "Mask of The Pirate Queen",
+        
+        "name": "Mask of The Pirate Queen",
+        "description": "Adventure Module",
+        "abbreviation": "MotPQ",
         "game": "EotE",
-        "type":"Adventure Module"
+        "type": "Adventure Module",
+        "isbn": "978-1-63344-189-7",
+        "sku": "SWE13"
     },
     {
-        "name": "BtR",
-        "description": "Beyond the Rim",
+        
+        "name": "Beyond the Rim",
+        "description": "Adventure Module",
+        "abbreviation": "BtR",
         "game": "EotE",
-        "type":"Adventure Module"
+        "type": "Adventure Module",
+        "isbn": "978-1-61661-689-2",
+        "sku": "SWE05"
     },
     {
-        "name": "JoY",
-        "description": "Jewel of Yavin",
+        
+        "name": "Jewel of Yavin",
+        "description": "Adventure Module",
+        "abbreviation": "JoY",
         "game": "EotE",
-        "type":"Adventure Module"
+        "type": "Adventure Module",
+        "isbn": "978-1-61661-680-9",
+        "sku": "SWE09"
     },
     {
-        "name": "MotPQ",
-        "description": "Lords of the Nal Hutta",
+        
+        "name": "Lords of the Nal Hutta",
+        "description": "A Sourcebook for Hutt Space",
+        "abbreviation": "MotPQ",
         "game": "EotE",
-        "type":"Location Sourcebook"
+        "type": "Location Sourcebook",
+        "isbn": "978-1-61661-693-9",
+        "sku": "SWE11"
     },
     {
-        "name": "SoF",
-        "description": "Suns of Fortune",
+        
+        "name": "Suns of Fortune",
+        "description": "A Sourcebook for the Correlian Sector",
+        "abbreviation": "SoF",
         "game": "EotE",
-        "type":"Location Sourcebook"
+        "type": "Location Sourcebook",
+        "isbn": "978-161661-685-4",
+        "sku": "SWE07"
+    },
+    {
+        
+        "name": "Age of Rebellion",
+        "description": "Star Wars: Age of Rebellion Roleplaying Game",
+        "abbreviation": "AoR",
+        "game": "AoR",
+        "type": "Core Rulebook",
+        "isbn": "978-1-61661-780-6",
+        "sku": "SWA02"
+    },
+    {
+        "name": "Fully Operational",
+        "description": "A Sourcebook for Engineers",
+        "abbreviation": "FO",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-314-3",
+        "sku": "SWA47"
+    },
+    {
+        "name": "Forged in Battle",
+        "description": "A Sourcebook for Soldiers",
+        "abbreviation": "FiB",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-289-4",
+        "sku": "SWA42"
+    },
+    {
+        "name": "Desperate Allies",
+        "description": "A Sourcebook for Diplomats",
+        "abbreviation": "DA",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-126-2",
+        "sku": "SWA31"
+    },
+    {
+        "name": "Lead by Example",
+        "description": "A Sourcebook for Commanders",
+        "abbreviation": "LbE",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-224-5",
+        "sku": "SWA36"
+    },
+    {
+        "name": "Stay on Targer",
+        "description": "A Sourcebook for Aces",
+        "abbreviation": "SoT",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-019-7",
+        "sku": "SWA25"
+    },
+    {
+        "name": "Cyphers and Masks",
+        "description": "A Sourcebook for Spies",
+        "abbreviation": "CaM",
+        "game": "AoR",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-318-1",
+        "sku": "SWA53"
+    },
+    {
+        "name": "Friends Like These",
+        "description": "Adventure Module",
+        "abbreviation": "FLT",
+        "game": "AoR",
+        "type": "Adventure Module",
+        "isbn": "978-1-63344-299-3",
+        "sku": "SWA41"
+    },
+    {
+        "name": "Onslaught at Arda I",
+        "description": "Adventure Module",
+        "abbreviation": "OaAI",
+        "game": "AoR",
+        "type": "Adventure Module",
+        "isbn": "978-1-61661-912-1",
+        "sku": "SWA04"
+    },
+    {
+        "name": "Strongholds of Resistance",
+        "description": "A Sourcebook of Alliance Worlds",
+        "abbreviation": "SoR",
+        "game": "AoR",
+        "type": "Location Sourcebook",
+        "isbn": "978-1-63344-138-5",
+        "sku": "SWA30"
     }
 ]
