@@ -72,14 +72,6 @@
         ]
     },
     {
-        "name":"Universal",
-        "sources":["EotE.277", "AoR.293"],
-        "specializations": [
-            { "name": "force sensitive exile", "sources": ["EotE.277"]},
-            { "name": "force-sensitive emergent", "sources": ["AoR.293"]}
-        ]
-    },
-    {
         "name":"Ace",
         "sources":["AoR.64"],
         "specializations": [
@@ -185,6 +177,14 @@
             { "name": "Aggressor", "sources": ["FaD.99"]},
             { "name": "Shii-Cho Knight", "sources": ["FaD.100"]},
             { "name": "Starfighter Ace", "sources": ["FaD.101"]}
+        ]
+    },
+    {
+        "name":"Universal",
+        "sources":["EotE.277", "AoR.293"],
+        "specializations": [
+            { "name": "force sensitive exile", "sources": ["EotE.277"]},
+            { "name": "force-sensitive emergent", "sources": ["AoR.293"]}
         ]
     }
 ]
