@@ -70,5 +70,13 @@
             { "name": "droid tech", "sources": ["SM.31"]},
             { "name": "modder", "sources": ["SM.33"]}
         ]
+    },
+    {
+        "name":"Universal",
+        "sources":["EotE.277", "AoR.293"],
+        "specializations": [
+            { "name": "force sensitive exile", "sources": ["EotE.277"]},
+            { "name": "force-sensitive emergent", "sources": ["AoR.293"]}
+        ]
     }
 ]
