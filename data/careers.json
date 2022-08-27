@@ -73,56 +73,74 @@
     },
     {
         "name":"Ace",
-        "sources":["AoR.64"],
+        "sources":["AoR.64", "SoT"],
         "specializations": [
             { "name": "Driver", "sources": ["AoR.67"]},
             { "name": "Gunner", "sources": ["AoR.68"]},
-            { "name": "Pilot", "sources": ["AoR.69"]}
+            { "name": "Pilot", "sources": ["AoR.69"]},
+            { "name": "Beast Rider", "sources": ["SoT.27"]},
+            { "name": "Hotshot", "sources": ["SoT.29"]},
+            { "name": "Rigger", "sources": ["SoT.31"]}
         ]
     },
     {
         "name":"Commander",
-        "sources":["AoR.70"],
+        "sources":["AoR.70", "LbE"],
         "specializations": [
             { "name": "Commodore", "sources": ["AoR.73"]},
             { "name": "Squadron Leader", "sources": ["AoR.74"]},
-            { "name": "Tactician", "sources": ["AoR.75"]}
+            { "name": "Tactician", "sources": ["AoR.75"]},
+            { "name": "Figurehead", "sources": ["LbE.29"]},
+            { "name": "Instructor", "sources": ["LbE.31"]},
+            { "name": "Strategist", "sources": ["LbE.33"]}
         ]
     },
     {
         "name":"Diplomat",
-        "sources":["AoR.76"],
+        "sources":["AoR.76", "DA"],
         "specializations": [
             { "name": "Ambassador", "sources": ["AoR.79"]},
             { "name": "Agitator", "sources": ["AoR.80"]},
-            { "name": "Quartermaster", "sources": ["AoR.81"]}
+            { "name": "Quartermaster", "sources": ["AoR.81"]},
+            { "name": "Advocate", "sources": ["DA.27"]},
+            { "name": "Analyst", "sources": ["DA.29"]},
+            { "name": "Propagandist", "sources": ["DA.31"]}
         ]
     },
     {
         "name":"Engineer",
-        "sources":["AoR.82"],
+        "sources":["AoR.82", "FO"],
         "specializations": [
             { "name": "Mechanic", "sources": ["AoR.85"]},
             { "name": "Saboteur", "sources": ["AoR.86"]},
-            { "name": "Scientist", "sources": ["AoR.87"]}
+            { "name": "Scientist", "sources": ["AoR.87"]},
+            { "name": "Droid Specialist", "sources": ["FO.25"]},
+            { "name": "Sapper", "sources": ["FO.27"]},
+            { "name": "Shipwright", "sources": ["FO.29"]}
         ]
     },
     {
         "name":"Soldier",
-        "sources":["AoR.88"],
+        "sources":["AoR.88", "FiB"],
         "specializations": [
             { "name": "Commando", "sources": ["AoR.91"]},
             { "name": "Medic", "sources": ["AoR.92"]},
-            { "name": "Sharpshooter", "sources": ["AoR.93"]}
+            { "name": "Sharpshooter", "sources": ["AoR.93"]},
+            { "name": "Heavy", "sources": ["FiB.29"]},
+            { "name": "Traiblazer", "sources": ["FiB.31"]},
+            { "name": "Vanguard", "sources": ["FiB.33"]}
         ]
     },
     {
         "name":"Spy",
-        "sources":["AoR.94"],
+        "sources":["AoR.94", "CaM"],
         "specializations": [
             { "name": "Infiltrator", "sources": ["AoR.97"]},
             { "name": "Scout", "sources": ["AoR.98"]},
-            { "name": "Slicer", "sources": ["AoR.99"]}
+            { "name": "Slicer", "sources": ["AoR.99"]},
+            { "name": "Courier", "sources": ["CaM.25"]},
+            { "name": "Interrogator", "sources": ["CaM.27"]},
+            { "name": "Sleeper Agent", "sources": ["CaM.29"]}
         ]
     },
     {
