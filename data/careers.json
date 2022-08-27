@@ -78,5 +78,59 @@
             { "name": "force sensitive exile", "sources": ["EotE.277"]},
             { "name": "force-sensitive emergent", "sources": ["AoR.293"]}
         ]
+    },
+    {
+        "name":"Ace",
+        "sources":["AoR.64"],
+        "specializations": [
+            { "name": "Driver", "sources": ["AoR.67"]},
+            { "name": "Gunner", "sources": ["AoR.68"]},
+            { "name": "Pilot", "sources": ["AoR.69"]}
+        ]
+    },
+    {
+        "name":"Commander",
+        "sources":["AoR.70"],
+        "specializations": [
+            { "name": "Commodore", "sources": ["AoR.73"]},
+            { "name": "Squadron Leader", "sources": ["AoR.74"]},
+            { "name": "Tactician", "sources": ["AoR.75"]}
+        ]
+    },
+    {
+        "name":"Diplomat",
+        "sources":["AoR.76"],
+        "specializations": [
+            { "name": "Ambassador", "sources": ["AoR.79"]},
+            { "name": "Agitator", "sources": ["AoR.80"]},
+            { "name": "Quartermaster", "sources": ["AoR.81"]}
+        ]
+    },
+    {
+        "name":"Engineer",
+        "sources":["AoR.82"],
+        "specializations": [
+            { "name": "Mechanic", "sources": ["AoR.85"]},
+            { "name": "Saboteur", "sources": ["AoR.86"]},
+            { "name": "Scientist", "sources": ["AoR.87"]}
+        ]
+    },
+    {
+        "name":"Soldier",
+        "sources":["AoR.88"],
+        "specializations": [
+            { "name": "Commando", "sources": ["AoR.91"]},
+            { "name": "Medic", "sources": ["AoR.92"]},
+            { "name": "Sharpshooter", "sources": ["AoR.93"]}
+        ]
+    },
+    {
+        "name":"Spy",
+        "sources":["AoR.94"],
+        "specializations": [
+            { "name": "Infiltrator", "sources": ["AoR.97"]},
+            { "name": "Scout", "sources": ["AoR.98"]},
+            { "name": "Slicer", "sources": ["AoR.99"]}
+        ]
     }
 ]
