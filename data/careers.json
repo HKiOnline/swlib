@@ -13,47 +13,62 @@
     },
     {
         "name":"Colonist",
-        "sources":["EotE.62"],
+        "sources":["EotE.62", "FH"],
         "specializations": [
             { "name": "doctor", "sources": ["EotE.65"]},
             { "name": "politico", "sources": ["EotE.66"]},
-            { "name": "scholar", "sources": ["EotE.67"]}
+            { "name": "scholar", "sources": ["EotE.67"]},
+            { "name": "entrepreneur", "sources": ["FH.27"]},
+            { "name": "marshal", "sources": ["FH.29"]},
+            { "name": "performer", "sources": ["FH.31"]}
         ]
     },
     {
         "name":"Explorer",
-        "sources":["EotE.69"],
+        "sources":["EotE.69", "EtU"],
         "specializations": [
             { "name": "fringer", "sources": ["EotE.71"]},
             { "name": "scout", "sources": ["EotE.72"]},
-            { "name": "trader", "sources": ["EotE.73"]}
+            { "name": "trader", "sources": ["EotE.73"]},
+            { "name": "archaeologist", "sources": ["EtU.25"]},
+            { "name": "big-game hunter", "sources": ["EtU.27"]},
+            { "name": "driver", "sources": ["EtU.29"]}
         ]
     },
     {
         "name":"Hired Gun",
-        "sources":["EotE.74"],
+        "sources":["EotE.74", "DC"],
         "specializations": [
             { "name": "bodyguard", "sources": ["EotE.77"]},
             { "name": "marauder", "sources": ["EotE.78"]},
-            { "name": "mercenary", "sources": ["EotE.79"]}
+            { "name": "mercenary", "sources": ["EotE.79"]},
+            { "name": "enforcer", "sources": ["DC.27"]},
+            { "name": "demolitionist", "sources": ["DC.29"]},
+            { "name": "heavy", "sources": ["DC.31"]}
         ]
     },
     {
         "name":"Smuggler",
-        "sources":["EotE.80"],
+        "sources":["EotE.80", "FC"],
         "specializations": [
             { "name": "pilot", "sources": ["EotE.83"]},
             { "name": "scoundrel", "sources": ["EotE.84"]},
-            { "name": "thief", "sources": ["EotE.85"]}
+            { "name": "thief", "sources": ["EotE.85"]},
+            { "name": "charmer", "sources": ["FC.27"]},
+            { "name": "gambler", "sources": ["FC.29"]},
+            { "name": "gunslinger", "sources": ["FC.31"]}
         ]
     },
     {
         "name":"Technician",
-        "sources":["EotE.86"],
+        "sources":["EotE.86", "SM"],
         "specializations": [
             { "name": "mechanic", "sources": ["EotE.89"]},
             { "name": "outlaw tech", "sources": ["EotE.90"]},
-            { "name": "slicer", "sources": ["EotE.91"]}
+            { "name": "slicer", "sources": ["EotE.91"]},
+            { "name": "cyber tech", "sources": ["SM.29"]},
+            { "name": "droid tech", "sources": ["SM.31"]},
+            { "name": "modder", "sources": ["SM.33"]}
         ]
     }
 ]
