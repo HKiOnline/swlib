@@ -298,5 +298,59 @@
         "type": "Location Sourcebook",
         "isbn": "978-1-63344-248-1",
         "sku": "SWF29"
+    },
+    {
+        "name": "Starships and Speeders",
+        "description": "The Essential Collection of Vehicles",
+        "abbreviation": "SaS",
+        "game": "SWR",
+        "type": "Essential Collection",
+        "isbn": "978-1-63344-367-9",
+        "sku": "SWR18"
+    },
+    {
+        "name": "Gadgets and Gear",
+        "description": "The Essential Collection of Weapons and Equipment",
+        "abbreviation": "GaG",
+        "game": "SWR",
+        "type": "Essential Collection",
+        "isbn": "978-1-63344-328-0",
+        "sku": "SWR17"
+    },
+    {
+        "name": "Allies and Adversaries",
+        "description": "The Essential Collection of Heroes and Villains",
+        "abbreviation": "AaA",
+        "game": "SWR",
+        "type": "Essential Collection",
+        "isbn": "978-1-63344-350-1",
+        "sku": "SWR12"
+    },
+    {
+        "name": "Dawn of Rebellion",
+        "description": "An Era Sourcebook",
+        "abbreviation": "DoR",
+        "game": "SWR",
+        "type": "Era Sourcebook",
+        "isbn": "978-1-63344-317-4",
+        "sku": "SWR10"
+    },
+    {
+        "name": "Collapse of the Republic",
+        "description": "An Era Sourcebook",
+        "abbreviation": "CotR",
+        "game": "SWR",
+        "type": "Era Sourcebook",
+        "isbn": "978-1-63344-358-7",
+        "sku": "SWR15"
+    },
+    {
+        "name": "Rise of the Separatists",
+        "description": "An Era Sourcebook",
+        "abbreviation": "RotS",
+        "game": "SWR",
+        "type": "Era Sourcebook",
+        "isbn": "978-1-63344-343-3",
+        "sku": "SWR11"
     }
 ]
