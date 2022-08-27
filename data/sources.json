@@ -207,5 +207,96 @@
         "type": "Location Sourcebook",
         "isbn": "978-1-63344-138-5",
         "sku": "SWA30"
+    },
+    {
+        
+        "name": "Force and Destiny",
+        "description": "Star Wars: Force and Destiny Roleplaying Game",
+        "abbreviation": "FaD",
+        "game": "FaD",
+        "type": "Core Rulebook",
+        "isbn": "978-1-63344-122-4",
+        "sku": "SWF02"
+    },
+    {
+        "name": "Disciplines of Harmony",
+        "description": "A Sourcebook for Consulars",
+        "abbreviation": "DoH",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-315-0",
+        "sku": "SWF35"
+    },
+    {
+        "name": "Keeping the Peace",
+        "description": "A Sourcebook for Guardians",
+        "abbreviation": "KtP",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-223-8",
+        "sku": "SWF24"
+    },
+    {
+        "name": "Unlimited Power",
+        "description": "A Sourcebook for Mystics",
+        "abbreviation": "UP",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-321-1",
+        "sku": "SWF52"
+    },
+    {
+        "name": "Savage Spirits",
+        "description": "A Sourcebook for Seekers",
+        "abbreviation": "SS",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-244-3",
+        "sku": "SWF41"
+    },
+    {
+        "name": "Endless Vigil",
+        "description": "A Sourcebook for Sentinels",
+        "abbreviation": "EV",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-287-0",
+        "sku": "SWF30"
+    },
+    {
+        "name": "Knights of Fate",
+        "description": "A Sourcebook for Warriors",
+        "abbreviation": "KoF",
+        "game": "FaD",
+        "type": "Career Sourcebook",
+        "isbn": "978-1-63344-326-6",
+        "sku": "SWF46"
+    },
+    {
+        "name": "Ghosts of Dathomir",
+        "description": "Adventure Module",
+        "abbreviation": "GoD",
+        "game": "FaD",
+        "type": "Adventure Module",
+        "isbn": "978-1-63344-312-9",
+        "sku": "SWF40"
+    },
+    {
+        "name": "Chronicles of the Gatekeeper",
+        "description": "Adventure Module",
+        "abbreviation": "CotG",
+        "game": "FaD",
+        "type": "Adventure Module",
+        "isbn": "978-1-63344-180-4",
+        "sku": "SWF23"
+    },
+    {
+        "name": "Nexus of Power",
+        "description": "A Sourcebook of Worlds Strong in the Force",
+        "abbreviation": "NoP",
+        "game": "FaD",
+        "type": "Location Sourcebook",
+        "isbn": "978-1-63344-248-1",
+        "sku": "SWF29"
     }
 ]
