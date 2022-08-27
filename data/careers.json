@@ -132,5 +132,59 @@
             { "name": "Scout", "sources": ["AoR.98"]},
             { "name": "Slicer", "sources": ["AoR.99"]}
         ]
+    },
+    {
+        "name":"Consular",
+        "sources":["FaD.66"],
+        "specializations": [
+            { "name": "Healer", "sources": ["FaD.69"]},
+            { "name": "Niman Disciple", "sources": ["FaD.70"]},
+            { "name": "Sage", "sources": ["FaD.71"]}
+        ]
+    },
+    {
+        "name":"Guardian",
+        "sources":["FaD.72"],
+        "specializations": [
+            { "name": "Peacekeeper", "sources": ["FaD.75"]},
+            { "name": "Protector", "sources": ["FaD.76"]},
+            { "name": "Soresu Defender", "sources": ["FaD.77"]}
+        ]
+    },
+    {
+        "name":"Mystic",
+        "sources":["FaD.78"],
+        "specializations": [
+            { "name": "Advisor", "sources": ["FaD.81"]},
+            { "name": "Makashi Duelist", "sources": ["FaD.82"]},
+            { "name": "Seer", "sources": ["FaD.83"]}
+        ]
+    },
+    {
+        "name":"Seeker",
+        "sources":["FaD.84"],
+        "specializations": [
+            { "name": "Ataru Striker", "sources": ["FaD.87"]},
+            { "name": "Hunter", "sources": ["FaD.88"]},
+            { "name": "Pathfinder", "sources": ["FaD.89"]}
+        ]
+    },
+    {
+        "name":"Sentinel",
+        "sources":["FaD.90"],
+        "specializations": [
+            { "name": "Artisan", "sources": ["FaD.93"]},
+            { "name": "Shadow", "sources": ["FaD.94"]},
+            { "name": "Shien Expert", "sources": ["FaD.95"]}
+        ]
+    },
+    {
+        "name":"Warrior",
+        "sources":["FaD.97"],
+        "specializations": [
+            { "name": "Aggressor", "sources": ["FaD.99"]},
+            { "name": "Shii-Cho Knight", "sources": ["FaD.100"]},
+            { "name": "Starfighter Ace", "sources": ["FaD.101"]}
+        ]
     }
 ]
