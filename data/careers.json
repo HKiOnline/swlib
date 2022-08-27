@@ -1,7 +1,7 @@
 [
     {
         "name":"Bounty Hunter",
-        "sources":["EotE.56"],
+        "sources":["EotE.56", "ND"],
         "specializations": [
             { "name": "assassin", "sources": ["EotE.59"]},
             { "name": "gadgeteer", "sources": ["EotE.60"]},
