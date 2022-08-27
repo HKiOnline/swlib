@@ -3,72 +3,72 @@
         "name":"Bounty Hunter",
         "sources":["EotE.56", "ND"],
         "specializations": [
-            { "name": "assassin", "sources": ["EotE.59"]},
-            { "name": "gadgeteer", "sources": ["EotE.60"]},
-            { "name": "survivalist", "sources": ["EotE.61"]},
-            { "name": "martial artist", "sources": ["ND.29"]},
-            { "name": "operator", "sources": ["ND.31"]},
-            { "name": "skip tracer", "sources": ["ND.33"]}
+            { "name": "Assassin", "sources": ["EotE.59"]},
+            { "name": "Gadgeteer", "sources": ["EotE.60"]},
+            { "name": "Survivalist", "sources": ["EotE.61"]},
+            { "name": "Martial Artist", "sources": ["ND.29"]},
+            { "name": "Operator", "sources": ["ND.31"]},
+            { "name": "Skip Tracer", "sources": ["ND.33"]}
         ]
     },
     {
         "name":"Colonist",
         "sources":["EotE.62", "FH"],
         "specializations": [
-            { "name": "doctor", "sources": ["EotE.65"]},
-            { "name": "politico", "sources": ["EotE.66"]},
-            { "name": "scholar", "sources": ["EotE.67"]},
-            { "name": "entrepreneur", "sources": ["FH.27"]},
-            { "name": "marshal", "sources": ["FH.29"]},
-            { "name": "performer", "sources": ["FH.31"]}
+            { "name": "Doctor", "sources": ["EotE.65"]},
+            { "name": "Politico", "sources": ["EotE.66"]},
+            { "name": "Scholar", "sources": ["EotE.67"]},
+            { "name": "Entrepreneur", "sources": ["FH.27"]},
+            { "name": "Marshal", "sources": ["FH.29"]},
+            { "name": "Performer", "sources": ["FH.31"]}
         ]
     },
     {
         "name":"Explorer",
         "sources":["EotE.69", "EtU"],
         "specializations": [
-            { "name": "fringer", "sources": ["EotE.71"]},
-            { "name": "scout", "sources": ["EotE.72"]},
-            { "name": "trader", "sources": ["EotE.73"]},
-            { "name": "archaeologist", "sources": ["EtU.25"]},
-            { "name": "big-game hunter", "sources": ["EtU.27"]},
-            { "name": "driver", "sources": ["EtU.29"]}
+            { "name": "Ffringer", "sources": ["EotE.71"]},
+            { "name": "Scout", "sources": ["EotE.72"]},
+            { "name": "Trader", "sources": ["EotE.73"]},
+            { "name": "Archaeologist", "sources": ["EtU.25"]},
+            { "name": "Big-Game Hunter", "sources": ["EtU.27"]},
+            { "name": "Driver", "sources": ["EtU.29"]}
         ]
     },
     {
         "name":"Hired Gun",
         "sources":["EotE.74", "DC"],
         "specializations": [
-            { "name": "bodyguard", "sources": ["EotE.77"]},
-            { "name": "marauder", "sources": ["EotE.78"]},
-            { "name": "mercenary", "sources": ["EotE.79"]},
-            { "name": "enforcer", "sources": ["DC.27"]},
-            { "name": "demolitionist", "sources": ["DC.29"]},
-            { "name": "heavy", "sources": ["DC.31"]}
+            { "name": "Bodyguard", "sources": ["EotE.77"]},
+            { "name": "Marauder", "sources": ["EotE.78"]},
+            { "name": "Mercenary", "sources": ["EotE.79"]},
+            { "name": "Enforcer", "sources": ["DC.27"]},
+            { "name": "Demolitionist", "sources": ["DC.29"]},
+            { "name": "Heavy", "sources": ["DC.31"]}
         ]
     },
     {
         "name":"Smuggler",
         "sources":["EotE.80", "FC"],
         "specializations": [
-            { "name": "pilot", "sources": ["EotE.83"]},
-            { "name": "scoundrel", "sources": ["EotE.84"]},
-            { "name": "thief", "sources": ["EotE.85"]},
-            { "name": "charmer", "sources": ["FC.27"]},
-            { "name": "gambler", "sources": ["FC.29"]},
-            { "name": "gunslinger", "sources": ["FC.31"]}
+            { "name": "Pilot", "sources": ["EotE.83"]},
+            { "name": "Scoundrel", "sources": ["EotE.84"]},
+            { "name": "Thief", "sources": ["EotE.85"]},
+            { "name": "Charmer", "sources": ["FC.27"]},
+            { "name": "Gambler", "sources": ["FC.29"]},
+            { "name": "Gunslinger", "sources": ["FC.31"]}
         ]
     },
     {
         "name":"Technician",
         "sources":["EotE.86", "SM"],
         "specializations": [
-            { "name": "mechanic", "sources": ["EotE.89"]},
-            { "name": "outlaw tech", "sources": ["EotE.90"]},
-            { "name": "slicer", "sources": ["EotE.91"]},
-            { "name": "cyber tech", "sources": ["SM.29"]},
-            { "name": "droid tech", "sources": ["SM.31"]},
-            { "name": "modder", "sources": ["SM.33"]}
+            { "name": "Mechanic", "sources": ["EotE.89"]},
+            { "name": "Outlaw tech", "sources": ["EotE.90"]},
+            { "name": "Slicer", "sources": ["EotE.91"]},
+            { "name": "Cyber Tech", "sources": ["SM.29"]},
+            { "name": "Droid Tech", "sources": ["SM.31"]},
+            { "name": "Modder", "sources": ["SM.33"]}
         ]
     },
     {
@@ -183,8 +183,8 @@
         "name":"Universal",
         "sources":["EotE.277", "AoR.293"],
         "specializations": [
-            { "name": "force sensitive exile", "sources": ["EotE.277"]},
-            { "name": "force-sensitive emergent", "sources": ["AoR.293"]}
+            { "name": "Force Sensitive Exile", "sources": ["EotE.277"]},
+            { "name": "Force-Sensitive Emergent", "sources": ["AoR.293"]}
         ]
     }
 ]
