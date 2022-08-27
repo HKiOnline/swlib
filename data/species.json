@@ -1,6 +1,7 @@
 [
     {
-        "name":"bothan",
+        "name":"Bothan",
+        "description": "Feline and furry.",
         "sources":["EotE.43"],
         "force_restriction": false,
         "initial_stats": {
@@ -21,31 +22,133 @@
         
     },
     {
-        "name":"droid",
+        "name":"Droid",
+        "description": "Artificial, constructed being.",
         "sources":["EotE.45"]
     },
     {
-        "name":"gand",
+        "name":"Gand",
+        "description": "Stocky insectoid-looking humanoids",
         "sources":["EotE.47"]
     },
     {
-        "name":"human",
+        "name":"Human",
+        "description": "Plain humanoids.",
         "sources":["EotE.48"]
     },
     {
-        "name":"rodian",
+        "name":"Rodian",
+        "description": "Green-skinned humanoids.",
         "sources":["EotE.49"]
     },
     {
-        "name":"trandoshan",
+        "name":"Trandoshan",
+        "description": "Lizard looking humanoids.",
         "sources":["EotE.50"]
     },
     {
-        "name":"twi'lek",
+        "name":"Twi'lek",
+        "description": "Humanoids with two head tails.",
         "sources":["EotE.51"]
     },
     {
-        "name":"wookie",
+        "name":"Wookie",
+        "description": "Furry walking carpet.",
         "sources":["EotE.52"]
+    },
+    {
+        "name":"Clawdite",
+        "description": "Appearance transforming humanoids.",
+        "sources":["ND.21"]
+    },
+    {
+        "name":"Devaronian",
+        "description": "Intimidating looking humanoids.",
+        "sources":["ND.23"]
+    },
+    {
+        "name":"Kalleran",
+        "description": "Fish headed humanoids.",
+        "sources":["ND.25"]
+    },
+    {
+        "name":"Arcona",
+        "description": "Humanoids with Y-shaped head.",
+        "sources":["FH.19"]
+    },
+    {
+        "name":"Gran",
+        "description": "Three eye stocked humanoids.",
+        "sources":["FH.22"]
+    },
+    {
+        "name":"Chevin",
+        "description": "Hunchbacked long faced aliens.",
+        "sources":["FH.25"]
+    },
+    {
+        "name":"Chiss",
+        "description": "Blue skinned humanoids.",
+        "sources":["EtU.20"]
+    },
+    {
+        "name":"Duros",
+        "description": "Green-skinned, red-eyed humanoids.",
+        "sources":["EtU.21"]
+    },
+    {
+        "name":"Toydarian",
+        "description": "Flying, trunk-nosed avian aliens.",
+        "sources":["EtU.22"]
+    },
+    {
+        "name":"Aqualish",
+        "description": "Semi-aquatic humanoids.",
+        "sources":["DC.19"]
+    },
+    {
+        "name":"Klatoonian",
+        "description": "Canine faced humanoids.",
+        "sources":["DC.20"]
+    },
+    {
+        "name":"Weequay",
+        "description": "Bone frilled jawline, rigid faced humanoids.",
+        "sources":["DC.22"]
+    },
+    {
+        "name":"Falleen",
+        "description": "Green-skinned reptilian humanoids with topknots.",
+        "sources":["FC.22"]
+    },
+    {
+        "name":"Gotal",
+        "description": "Goat faced humanoids.",
+        "sources":["FC.21"]
+    },
+    {
+        "name":"Quarren",
+        "description": "Aquatic humanoids with tentacles protruding from the face.",
+        "sources":["FC.23"]
+    },
+    {
+        "name":"Besalisk",
+        "description": "Burly four-armed humanoids with avian ancestry.",
+        "sources":["SM.20"]
+    },
+    {
+        "name":"Dug",
+        "description": "Short humanoids with long upper limbs serving as legs.",
+        "sources":["SM.22"]
+    },
+    {
+        "name":"Mustafarian (Northern)",
+        "description": "Tall and spindly humanoids.",
+        "sources":["SM.24"]
+    },
+    {
+        "name":"Mustafarian (Southern)",
+        "description": "Bulky and tough humanoids.",
+        "sources":["SM.24"]
     }
 ]
