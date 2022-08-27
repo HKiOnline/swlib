@@ -145,56 +145,74 @@
     },
     {
         "name":"Consular",
-        "sources":["FaD.66"],
+        "sources":["FaD.66", "DoH"],
         "specializations": [
             { "name": "Healer", "sources": ["FaD.69"]},
             { "name": "Niman Disciple", "sources": ["FaD.70"]},
-            { "name": "Sage", "sources": ["FaD.71"]}
+            { "name": "Sage", "sources": ["FaD.71"]},
+            { "name": "Arbiter", "sources": ["DoH.23"]},
+            { "name": "Ascetic", "sources": ["DoH.25"]},
+            { "name": "Teacher", "sources": ["DoH.27"]}
         ]
     },
     {
         "name":"Guardian",
-        "sources":["FaD.72"],
+        "sources":["FaD.72", "KtP"],
         "specializations": [
             { "name": "Peacekeeper", "sources": ["FaD.75"]},
             { "name": "Protector", "sources": ["FaD.76"]},
-            { "name": "Soresu Defender", "sources": ["FaD.77"]}
+            { "name": "Soresu Defender", "sources": ["FaD.77"]},
+            { "name": "Armorer", "sources": ["KtP.25"]},
+            { "name": "Warden", "sources": ["KtP.27"]},
+            { "name": "Warleader", "sources": ["KtP.29"]}
         ]
     },
     {
         "name":"Mystic",
-        "sources":["FaD.78"],
+        "sources":["FaD.78", "UP"],
         "specializations": [
             { "name": "Advisor", "sources": ["FaD.81"]},
             { "name": "Makashi Duelist", "sources": ["FaD.82"]},
-            { "name": "Seer", "sources": ["FaD.83"]}
+            { "name": "Seer", "sources": ["FaD.83"]},
+            { "name": "Alchemist", "sources": ["UP.27"]},
+            { "name": "Magus", "sources": ["UP.29"]},
+            { "name": "Prophet", "sources": ["UP.31"]}
         ]
     },
     {
         "name":"Seeker",
-        "sources":["FaD.84"],
+        "sources":["FaD.84", "SS"],
         "specializations": [
             { "name": "Ataru Striker", "sources": ["FaD.87"]},
             { "name": "Hunter", "sources": ["FaD.88"]},
-            { "name": "Pathfinder", "sources": ["FaD.89"]}
+            { "name": "Pathfinder", "sources": ["FaD.89"]},
+            { "name": "Executioner", "sources": ["SS.25"]},
+            { "name": "Hermit", "sources": ["SS.27"]},
+            { "name": "Navigator", "sources": ["SS.29"]}
         ]
     },
     {
         "name":"Sentinel",
-        "sources":["FaD.90"],
+        "sources":["FaD.90", "EV"],
         "specializations": [
             { "name": "Artisan", "sources": ["FaD.93"]},
             { "name": "Shadow", "sources": ["FaD.94"]},
-            { "name": "Shien Expert", "sources": ["FaD.95"]}
+            { "name": "Shien Expert", "sources": ["FaD.95"]},
+            { "name": "Investigator", "sources": ["EV.25"]},
+            { "name": "Racer", "sources": ["EV.27"]},
+            { "name": "Sentry", "sources": ["EV.29"]}
         ]
     },
     {
         "name":"Warrior",
-        "sources":["FaD.97"],
+        "sources":["FaD.97", "KoF"],
         "specializations": [
             { "name": "Aggressor", "sources": ["FaD.99"]},
             { "name": "Shii-Cho Knight", "sources": ["FaD.100"]},
-            { "name": "Starfighter Ace", "sources": ["FaD.101"]}
+            { "name": "Starfighter Ace", "sources": ["FaD.101"]},
+            { "name": "Colossus", "sources": ["KoF.25"]},
+            { "name": "Juyo Berserker", "sources": ["KoF.27"]},
+            { "name": "Steel Hand Adept", "sources": ["KoF.29"]}
         ]
     },
     {
