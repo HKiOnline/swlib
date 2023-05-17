@@ -1,0 +1,247 @@
+[
+    {
+        "name": "astrogation",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "athletics",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "charm",
+        "rank": 0,
+        "charasteristic": "presence",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "coercion",
+        "rank": 0,
+        "charasteristic": "willpower",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "computers",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "cool",
+        "rank": 0,
+        "charasteristic": "presence",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "coordination",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "deception",
+        "rank": 0,
+        "charasteristic": "cunning",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "discipline",
+        "rank": 0,
+        "charasteristic": "willpower",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "leadership",
+        "rank": 0,
+        "charasteristic": "presence",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "mechanics",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "medicine",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "negotiation",
+        "rank": 0,
+        "charasteristic": "presence",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "perception",
+        "rank": 0,
+        "charasteristic": "cunning",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "piloting (planetary)",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "piloting (space)",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "resilience",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "skulduggery",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "stealth",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "streetwise",
+        "rank": 0,
+        "charasteristic": "cunning",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "survival",
+        "rank": 0,
+        "charasteristic": "cunning",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "vigilance",
+        "rank": 0,
+        "charasteristic": "willpower",
+        "iscareerskill": false,
+        "type": "general"
+    },
+    {
+        "name": "brawl",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "gunnery",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "lightsaber",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "melee",
+        "rank": 0,
+        "charasteristic": "brawn",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "ranged (light)",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "ranged (heavy)",
+        "rank": 0,
+        "charasteristic": "agility",
+        "iscareerskill": false,
+        "type": "combat"
+    },
+    {
+        "name": "core worlds",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "education",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "lore",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "outer rim",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "underworld",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "warfare",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    },
+    {
+        "name": "xenology",
+        "rank": 0,
+        "charasteristic": "intellect",
+        "iscareerskill": false,
+        "type": "knowledge"
+    }
+]
