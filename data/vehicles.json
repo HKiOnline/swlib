@@ -1,0 +1,210 @@
+[
+    {
+        "name": "614-AVA Speeder Bike",
+        "type": "Speeder Bike",
+        "model": "614-AVA",
+        "manufacturer": "Aratech Repulsor Company",
+        "stats": {
+            "silhuette": 2,
+            "speed": 2,
+            "handling": 1,
+            "defence": {
+                "fore": 0,
+                "port": null,
+                "starboard": null,
+                "aft": 0
+            },
+            "armor": 0,
+            "ht_threshold": 2,
+            "ss_threshold": 5
+        },
+        "dimensions": {
+            "length": 4,
+            "width": 0.5,
+            "height": 0.5
+        },
+        "hyperdrive": {
+            "primary_class": null,
+            "secondary_class": null
+        },
+        "navicomputer": null,
+        "sensor_range": "close",
+        "complement": { "crew": "one pilot", "starfighters": null, "vehicles": null },
+        "capacity": {
+            "encumbrance": 6, 
+            "passengers": 4
+        },
+        "consumables": { "amount": 0,  "unit": "days" },
+        "price": 4200,
+        "isRestricted": true,
+        "rarity": 6,
+        "hard_points": 1,
+        "weapons": [
+            {
+                "name": "forward mounted blasters",
+                "scale": "personal",
+                "fire_arc": ["forward"],
+                "damage": 12,
+                "critical": 2,
+                "range": "long",
+                "special": ["linked 1", "pierce 2"]
+            }
+        ],
+        "additional_rules": [
+            {
+                "name": "Maximum altitude",
+                "description": "20 meters"
+            },
+            {
+                "name": "Collapsible", 
+                "description": "Collapsing or expanding the bike requires a maneuver. When collapsed, the vehicle has silhouette 1 and is inoperable."
+            }
+        ]
+    },
+    {
+        "name": "RZ-1 A-Wing Light Interceptor",
+        "type": "Starfighter",
+        "model": "RZ-1",
+        "manufacturer": "Kuat Systems Engineering",
+        "stats": {
+            "silhuette": 3,
+            "speed": 6,
+            "handling": 3,
+            "defence": {
+                "fore": 1,
+                "port": null,
+                "starboard": null,
+                "aft": 0
+            },
+            "armor": 2,
+            "ht_threshold": 6,
+            "ss_threshold": 6
+        },
+        "dimensions": {
+            "length": 4,
+            "width": 0.5,
+            "height": 0.5
+        },
+        "hyperdrive": {
+            "primary_class": 1.0,
+            "secondary_class": null
+        },
+        "navicomputer": true,
+        "sensor_range": "medium",
+        "complement": { "crew": "one pilot", "starfighters": null, "vehicles": null },
+        "capacity": {
+            "encumbrance": 4, 
+            "passengers": 0
+        },
+        "consumables": { "amount": 1,  "unit": "week" },
+        "price": 150000,
+        "isRestricted": false,
+        "rarity": 6,
+        "hard_points": 1,
+        "weapons": [
+            {
+                "name": "forward-mounted light laser cannons",
+                "scale": "planetary",
+                "fire_arc": ["forward"],
+                "damage": 5,
+                "critical": 3,
+                "range": "close",
+                "special": ["linked 1"]
+            },
+            {
+                "name": "forward-mounted consussion missile launchers",
+                "scale": "planetary",
+                "fire_arc": ["forward"],
+                "damage": 6,
+                "critical": 3,
+                "range": "short",
+                "special": ["blast 1", "breach 4", "guided 3", "limited ammo 6", "linked 1", "slow-firing 1"]
+            }
+        ],
+        "additional_rules": []
+    },
+    {
+        "name": "Arquitens-class Light Cruiser",
+        "type": "Light Cruiser",
+        "model": "Arquitens-class",
+        "manufacturer": "Kuat Drive Yards",
+        "stats": {
+            "silhuette": 6,
+            "speed": 3,
+            "handling": -2,
+            "defence": {
+                "fore": 2,
+                "port": 2,
+                "starboard": 2,
+                "aft": 2
+            },
+            "armor": 5,
+            "ht_threshold": 60,
+            "ss_threshold": 45
+        },
+        "dimensions": {
+            "length": 4,
+            "width": 0.5,
+            "height": 0.5
+        },
+        "hyperdrive": {
+            "primary_class": 2.0,
+            "secondary_class": 12.0
+        },
+        "navicomputer": true,
+        "sensor_range": "medium",
+        "complement": {
+            "crew": "750 officers, pilots and enlisted crew",
+            "starfighters": "Three TIE-series starfighters, two TIE-series bombers, or one Sentinel-class landing craft",
+            "vehicles": "Assorted landspeeders"
+        },
+        "capacity": {
+            "encumbrance": 1200, 
+            "passengers": 100
+        },
+        "consumables": { "amount": 3,  "unit": "months" },
+        "price": 5000000,
+        "isRestricted": true,
+        "rarity": 5,
+        "hard_points": 2,
+        "weapons": [
+            {
+                "description": "two dorsal and two ventral turret-mounted twin light turbolaser batteries",
+                "scale": "planetary",
+                "fire_arc": "all",
+                "damage": 9,
+                "critical": 3,
+                "range": "medium",
+                "special": ["breach 2", "linked 1", "slow-firing 1"]
+            },
+            {
+                "description": "four port and four starboard quad laser cannons",
+                "scale": "planetary",
+                "fire_arc": "port or starboard",
+                "damage": 5,
+                "critical": 3,
+                "range": "close",
+                "special": ["accurate 1", "linked 3"]
+            },
+            {
+                "description": "four forward-mounted concussion missile launchers",
+                "scale": "planetary",
+                "fire_arc": "forward",
+                "damage": 6,
+                "critical": 3,
+                "range": "short",
+                "special": ["blast 4", "breach 4", "guided 3", "slow-firing 1"]
+            },
+            {
+                "description": "forward-mounted medium tractor beam emitter",
+                "scale": "planetary",
+                "fire_arc": "forward",
+                "damage": null,
+                "critical": null,
+                "range": "short",
+                "special": ["tractor 4"]
+            }
+        ],
+        "additional_rules": []
+    }
+]

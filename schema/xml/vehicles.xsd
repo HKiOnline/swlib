@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="vehicles">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="vehicle" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="model" type="xs:string"/>
+              <xs:element name="manufacturer" type="xs:string"/>
+              <xs:element name="stats">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="silhuette" type="xs:int"/>
+                    <xs:element name="speed" type="xs:int"/>
+                    <xs:element name="handling" type="xs:int"/>
+                    <xs:element name="defence">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="fore" type="xs:int"/>
+                          <xs:element name="port" type="xs:int" minOccurs="0"/>
+                          <xs:element name="starboard" type="xs:int" minOccurs="0"/>
+                          <xs:element name="aft" type="xs:int"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="armor" type="xs:int"/>
+                    <xs:element name="ht_threshold" type="xs:int"/>
+                    <xs:element name="ss_threshold" type="xs:int"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="dimensions">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="length" type="xs:decimal"/>
+                    <xs:element name="width" type="xs:decimal"/>
+                    <xs:element name="height" type="xs:decimal"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="hyperdrive">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="primary_class" type="xs:decimal" minOccurs="0"/>
+                    <xs:element name="secondary_class" type="xs:decimal" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="navicomputer" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="sensor_range" type="xs:string"/>
+              <xs:element name="complement">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="crew" type="xs:string" minOccurs="0"/>
+                    <xs:element name="starfighters" type="xs:string" minOccurs="0"/>
+                    <xs:element name="vehicles" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="capacity">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="encumbrance" type="xs:int"/>
+                    <xs:element name="passengers" type="xs:int"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="consumables">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="amount" type="xs:int"/>
+                    <xs:element name="unit" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="price" type="xs:int"/>
+              <xs:element name="isRestricted" type="xs:boolean"/>
+              <xs:element name="rarity" type="xs:int"/>
+              <xs:element name="hard_points" type="xs:int"/>
+              <xs:element name="weapons">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="weapon" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="name" type="xs:string"/>
+                          <xs:element name="scale" type="xs:string"/>
+                          <xs:element name="fire_arc">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="arc" type="xs:string" maxOccurs="unbounded"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="damage" type="xs:int"/>
+                          <xs:element name="critical" type="xs:int"/>
+                          <xs:element name="range" type="xs:string"/>
+                          <xs:element name="special">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="special_item" type="xs:string" maxOccurs="unbounded"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="additional_rules" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="rule" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="name" type="xs:string"/>
+                          <xs:element name="description" type="xs:string"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

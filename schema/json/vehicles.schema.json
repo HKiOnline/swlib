@@ -1,0 +1,190 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "model": {
+          "type": "string"
+        },
+        "manufacturer": {
+          "type": "string"
+        },
+        "stats": {
+          "type": "object",
+          "properties": {
+            "silhuette": {
+              "type": "integer"
+            },
+            "speed": {
+              "type": "integer"
+            },
+            "handling": {
+              "type": "integer"
+            },
+            "defence": {
+              "type": "object",
+              "properties": {
+                "fore": {
+                  "type": "integer"
+                },
+                "port": {
+                  "type": ["integer", "null"]
+                },
+                "starboard": {
+                  "type": ["integer", "null"]
+                },
+                "aft": {
+                  "type": "integer"
+                }
+              }
+            },
+            "armor": {
+              "type": "integer"
+            },
+            "ht_threshold": {
+              "type": "integer"
+            },
+            "ss_threshold": {
+              "type": "integer"
+            }
+          }
+        },
+        "dimensions": {
+          "type": "object",
+          "properties": {
+            "length": {
+              "type": "number"
+            },
+            "width": {
+              "type": "number"
+            },
+            "height": {
+              "type": "number"
+            }
+          }
+        },
+        "hyperdrive": {
+          "type": "object",
+          "properties": {
+            "primary_class": {
+              "type": ["number", "null"]
+            },
+            "secondary_class": {
+              "type": ["number", "null"]
+            }
+          }
+        },
+        "navicomputer": {
+          "type": ["boolean", "null"]
+        },
+        "sensor_range": {
+          "type": "string"
+        },
+        "complement": {
+          "type": "object",
+          "properties": {
+            "crew": {
+              "type": ["string", "null"]
+            },
+            "starfighters": {
+              "type": ["string", "null"]
+            },
+            "vehicles": {
+              "type": ["string", "null"]
+            }
+          }
+        },
+        "capacity": {
+          "type": "object",
+          "properties": {
+            "encumbrance": {
+              "type": "integer"
+            },
+            "passengers": {
+              "type": "integer"
+            }
+          }
+        },
+        "consumables": {
+          "type": "object",
+          "properties": {
+            "amount": {
+              "type": "integer"
+            },
+            "unit": {
+              "type": "string"
+            }
+          }
+        },
+        "price": {
+          "type": "integer"
+        },
+        "isRestricted": {
+          "type": "boolean"
+        },
+        "rarity": {
+          "type": "integer"
+        },
+        "hard_points": {
+          "type": "integer"
+        },
+        "weapons": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "scale": {
+                "type": "string"
+              },
+              "fire_arc": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "damage": {
+                "type": "integer"
+              },
+              "critical": {
+                "type": "integer"
+              },
+              "range": {
+                "type": "string"
+              },
+              "special": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "additional_rules": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
