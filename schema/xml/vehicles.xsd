@@ -89,13 +89,7 @@
                         <xs:sequence>
                           <xs:element name="name" type="xs:string"/>
                           <xs:element name="scale" type="xs:string"/>
-                          <xs:element name="fire_arc">
-                            <xs:complexType>
-                              <xs:sequence>
-                                <xs:element name="arc" type="xs:string" maxOccurs="unbounded"/>
-                              </xs:sequence>
-                            </xs:complexType>
-                          </xs:element>
+                          <xs:element name="fire_arc" type="xs:string"/>
                           <xs:element name="damage" type="xs:int"/>
                           <xs:element name="critical" type="xs:int"/>
                           <xs:element name="range" type="xs:string"/>

@@ -147,10 +147,7 @@
                 "type": "string"
               },
               "fire_arc": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
+                "type": "string"
               },
               "damage": {
                 "type": "integer"
