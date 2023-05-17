@@ -1,0 +1,27 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="sources">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="source" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="description" type="xs:string"/>
+              <xs:element name="abbreviation" type="xs:string"/>
+              <xs:element name="game" type="xs:string"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="isbn" type="ISBNType"/>
+              <xs:element name="sku" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="ISBNType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{3}-\d{1}-\d{5}-\d{3}-\d{1}"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
