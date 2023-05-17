@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "manufacturer": {
+          "type": "string"
+        },
+        "model": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "skill": {
+          "type": "string"
+        },
+        "range": {
+          "type": "string"
+        },
+        "encumbrance": {
+          "type": "integer"
+        },
+        "price": {
+          "type": "integer"
+        },
+        "isRestricted": {
+          "type": "boolean"
+        },
+        "rarity": {
+          "type": "integer"
+        },
+        "damage": {
+          "type": "integer"
+        },
+        "scale": {
+          "type": "string"
+        },
+        "critical": {
+          "type": "integer"
+        },
+        "hardpoints": {
+          "type": "integer"
+        },
+        "special": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["name", "manufacturer", "model", "type", "skill", "range", "encumbrance", "price", "isRestricted", "rarity", "damage", "scale", "critical", "hardpoints", "special", "sources"]
+    }
+  }
+  

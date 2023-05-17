@@ -1,0 +1,38 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="weapons">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="weapon" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="manufacturer" type="xs:string"/>
+              <xs:element name="model" type="xs:string"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="skill" type="xs:string"/>
+              <xs:element name="range" type="xs:string"/>
+              <xs:element name="encumbrance" type="xs:integer"/>
+              <xs:element name="price" type="xs:integer"/>
+              <xs:element name="isRestricted" type="xs:boolean"/>
+              <xs:element name="rarity" type="xs:integer"/>
+              <xs:element name="damage" type="xs:integer"/>
+              <xs:element name="scale" type="xs:string"/>
+              <xs:element name="critical" type="xs:integer"/>
+              <xs:element name="hardpoints" type="xs:integer"/>
+              <xs:element name="special" type="SpecialFeaturesType"/>
+              <xs:element name="sources" type="SourcesType"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="SpecialFeaturesType">
+    <xs:list itemType="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="SourcesType">
+    <xs:list itemType="xs:string"/>
+  </xs:simpleType>
+</xs:schema>
