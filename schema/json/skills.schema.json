@@ -13,7 +13,7 @@
         "charasteristic": {
           "type": "string"
         },
-        "iscareerskill": {
+        "isCareerSkill": {
           "type": "boolean"
         },
         "type": {
