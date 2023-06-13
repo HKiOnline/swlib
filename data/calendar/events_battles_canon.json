@@ -1,0 +1,57 @@
+[
+    {
+        "startYear": -2,
+        "endYear": -2,
+        "name": "Battle of Atollon",
+        "description": "Grand Admiral Thrawn's Seventh Fleet, blockaded the Atollon system, trapping two Rebel cells on the planet. The Rebels suffered a defeat but were in the end able to evacuate with heavy losses.",
+        "eras": ["Empire", "Galactic Civil War"],
+        "tags": ["battle", "Siege of Atollon", "Attack on Atollon", "Imperial victory", "Rebel defeat", "Atollon", "Chopper Base"],
+        "characters": [""],
+        "isCanon": true,
+        "isMeta": false
+    },
+    {
+        "startYear": 0,
+        "endYear": 0,
+        "name": "Battle of Yavin",
+        "description": "Destruction of the Death Star by the Rebel pilot Luke Skywalker.",
+        "eras": ["Empire", "Galactic Civil War"],
+        "tags": ["battle", "Imperial defeat", "Rebel victory", "Yavin", "Yavin IV"],
+        "characters": ["Luke Skywalker", "Leia Organa", "Han Solo", "Chewbacca", "R2-D2", "C-3PO", "General Dodonna", "Wilhuff Tarkin", "Grand Moff Tarkin", "Darth Vader"],
+        "isCanon": true,
+        "isMeta": false
+    },
+    {
+        "startYear": 3,
+        "endYear": 3,
+        "name": "Battle of Hoth",
+        "description": "Destruction of the Rebel base in Hoth.",
+        "eras": ["Empire", "Galactic Civil War"],
+        "tags": ["battle", "Imperial victory", "Rebel defeat", "Hoth"],
+        "characters": ["Luke Skywalker", "Leia Organa", "Han Solo", "Chewbacca", "R2-D2", "C-3PO", "General Dodonna", "Wilhuff Tarkin", "Grand Moff Tarkin", "Darth Vader"],
+        "isCanon": true,
+        "isMeta": false
+    },
+    {
+        "startYear": 4,
+        "endYear": 4,
+        "name": "Battle of Endor",
+        "description": "Destruction of the second Death Star by the Rebels. Death of the Emperor and Darth Vader.",
+        "eras": ["Empire", "Galactic Civil War"],
+        "tags": ["battle", "Imperial defeat", "Rebel victory", "Occupation of Endor", "Endor"],
+        "characters": ["Luke Skywalker", "Leia Organa", "Han Solo", "Chewbacca", "R2-D2", "C-3PO", "General Dodonna", "Wilhuff Tarkin", "Grand Moff Tarkin", "Darth Vader"],
+        "isCanon": true,
+        "isMeta": false
+    },
+    {
+        "startYear": 5,
+        "endYear": 5,
+        "name": "Battle of Jakku",
+        "description": "The Battle of Jakku was the decisive last stand of the Galactic Empire against the New Republic on the surface and above Jakku as the Galactic Civil War drew to a final conclusion after a year of prolonged fighting following the Battle of Endor.",
+        "eras": ["New Republic", "Galactic Civil War"],
+        "tags": ["battle", "Imperial defeat", "Imperial remnant defeat", "New Republic victory", "Occupation of Jakku", "Jakku", "Galactic Concordance"],
+        "characters": ["Gallius Rax", "Rae Sloane"],
+        "isCanon": true,
+        "isMeta": false
+    }
+]

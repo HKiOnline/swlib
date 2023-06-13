@@ -1,0 +1,80 @@
+[
+    {
+        "startYear": -19,
+        "endYear": -19,
+        "name": "Thrawn: Alliances",
+        "description": "",
+        "eras": ["Republic", "Late Republic", "Clone Wars"],
+        "tags": ["book", "star wars: thrawn", "9780525480488", "Timothy Zahn"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -5,
+        "endYear": -2,
+        "name": "Thrawn",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: thrawn", "9780345511270", "Timothy Zahn"],
+        "characters": [""],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -2,
+        "endYear": -2,
+        "name": "Thrawn: Alliances",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: thrawn", "9780525480488", "Timothy Zahn"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -1,
+        "endYear": -1,
+        "name": "Thrawn: Treason",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: thrawn", "9781984820983", "Timothy Zahn"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 4,
+        "endYear": 4,
+        "name": "Alphabet Squadron",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: alphabet squadron", "9781984821980", "Alexander Freed"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 5,
+        "endYear": 5,
+        "name": "Shadow Fall",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: alphabet squadron", "9781984820044", "Alexander Freed"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 5,
+        "endYear": 5,
+        "name": "Victory's Price",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["book", "star wars: alphabet squadron", "9781984820075", "Alexander Freed"],
+        "characters": [],
+        "isCanon": true,
+        "isMeta": true
+    }
+    
+]

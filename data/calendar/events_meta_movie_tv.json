@@ -1,0 +1,233 @@
+[
+    {
+        "startYear": -32,
+        "endYear": -32,
+        "name": "Star Wars: Episode I The Phantom Menace",
+        "description": "",
+        "eras": ["Republic", "Late Republic"],
+        "tags": ["Movie", "Live Action", "Episode", "Episode I"],
+        "characters": ["Qui-Gon Jinn", "Obi-wan Kenobi", "Yoda", "Darth Maul", "Maul", "Padmé Amidala", "Anakin Skywalker", "Shiv Palpatine"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -22,
+        "endYear": -22,
+        "name": "Star Wars: Episode II Attack of the Clones",
+        "description": "",
+        "eras": ["Republic", "Late Republic", "Clone Wars"],
+        "tags": ["Movie", "Live Action", "Episode", "Episode II"],
+        "characters": ["Obi-wan Kenobi", "Yoda", "Padmé Amidala", "Anakin Skywalker", "Jango Fett", "Bobba Fett", "Shiv Palpatine", "Dooku"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -22,
+        "endYear": -19,
+        "name": "Star Wars: The Clone Wars",
+        "description": "",
+        "eras": ["Republic", "Late Republic", "Clone Wars"],
+        "tags": ["TV", "Animation", "Episode", "Episode II", "Clone Wars"],
+        "characters": ["Obi-wan Kenobi", "Yoda", "Padmé Amidala", "Anakin Skywalker", "Ashoka Tano", "Shiv Palpatine", "Dooku", "Maul", "Grievous", "Rex", "Wilhuff Tarkin", "Cad Bane"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -19,
+        "endYear": -19,
+        "name": "Star Wars: Episode III Return of the Sith",
+        "description": "",
+        "eras": ["Republic", "Late Republic", "Clone Wars", "Empire"],
+        "tags": ["Movie", "Live Action", "Episode", "Episode III"],
+        "characters": ["Obi-wan Kenobi", "Yoda", "Padmé Amidala", "Anakin Skywalker", "Darth Vader", "Shiv Palpatine", "Dooku", "Grievous"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -19,
+        "endYear": -19,
+        "name": "Star Wars: The Bad Batch, Season 1",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["TV", "Animation", "Bad Batch", "Season 1"],
+        "characters": ["Hunter", "Crosshair", "Tech", "Wrecker", "Echo", "Omega", "Rex", "Wilhuff Tarkin", "Saw Gerrera", "Fennec Shand", "Cid", "Ciddarin Scaleback"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -19,
+        "endYear": -18,
+        "name": "Star Wars: The Bad Batch, Season 2",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["TV", "Animation", "Bad Batch", "Season 2"],
+        "characters": ["Hunter", "Crosshair", "Tech", "Wrecker", "Echo", "Omega", "Rex", "Wilhuff Tarkin", "Saw Gerrera", "Fennec Shand"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -13,
+        "endYear": -10,
+        "name": "Solo: A Star Wars Story",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["Movie", "Live Action", "Crimson Dawn", "Cloud-Riders", "Kessel Run", "Millenium Falcon"],
+        "characters": ["Han Solo", "Chewbacca", "Maul", " Qi'ra", "Tobias Beckett", "Enfys Nest", "Dryden Vos", "Lando Calrissian", "L3-37"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -9,
+        "endYear": -9,
+        "name": "Star Wars: Obi-Wan Kenobi",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["TV", "Live Action"],
+        "characters": ["Obi-Wan Kenobi", "Ben Kenobi", "Leia Organa", "Darth Vader", "Grand Inquisitor"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -5,
+        "endYear": -5,
+        "name": "Star Wars: Andor Season 1",
+        "description": "",
+        "eras": ["Empire"],
+        "tags": ["TV", "Live Action", "Andor", "Cassian Andor"],
+        "characters": ["Cassian Andor", "Mon Mothma", "Luthen Rail", "Axis", "Kleya Marki", "Melshi", " Vel Sartha", "Cinta Kaz"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -5,
+        "endYear": -5,
+        "name": "Star Wars Rebels Season 1",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["TV", "Animation", "Rebels", "Season 1", "The Ghost", "Lothal"],
+        "characters": ["Kanan Jarrus", "Caleb Dume", "Ezra Bridger", "Sabine Wren", "Hera Syndulla", " Zeb Orrelios", "Wilhuff Tarkin", "Arihnda Pryce", "Alexsandr Kallus", "Fulcrum", "Lando Calrissian", "Grand Inquisitor"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -4,
+        "endYear": -3,
+        "name": "Star Wars Rebels Season 2",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["TV", "Animation", "Rebels", "Season 2", "Phoenix Cell", "Lothal", "Ryloth", "Atollon", "Chopper Base"],
+        "characters": ["Kanan Jarrus", "Caleb Dume", "Ezra Bridger", "Sabine Wren", "Hera Syndulla", " Zeb Orrelios", "Wilhuff Tarkin", "Arihnda Pryce", "Alexsandr Kallus", "Leia Organa", "Ahsoka Tano", "Fulcrum", "Maul", "Darth Vader"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -2,
+        "endYear": -2,
+        "name": "Star Wars Rebels Season 3",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["TV", "Animation", "Rebels", "Season 3", "Mandalore", "Dark Saber", "Chopper Base", "Phoenix Cell", "Atollon", "Battle of Atollon"],
+        "characters": ["Kanan Jarrus", "Caleb Dume", "Ezra Bridger", "Sabine Wren", "Hera Syndulla", " Zeb Orrelios", "Wilhuff Tarkin", "Arihnda Pryce", "Alexsandr Kallus", "Leia Organa", "Ahsoka Tano", "Fulcrum", "Maul", "Thrawn", "Mon Mothma", "Bendu"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -1,
+        "endYear": 0,
+        "name": "Star Wars Rebels Season 4",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["TV", "Animation", "Rebels", "Season 4", "Lothal", "Mandalore", "World Between Worlds"],
+        "characters": ["Kanan Jarrus", "Caleb Dume", "Ezra Bridger", "Sabine Wren", "Hera Syndulla", " Zeb Orrelios", "Wilhuff Tarkin", "Arihnda Pryce", "Alexsandr Kallus", "Leia Organa", "Ahsoka Tano", "Fulcrum", "Maul", "Thrawn"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": -1,
+        "endYear": 0,
+        "name": "Rogue One: A Star Wars Story",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["Movie", "Live Action", "Rogue One", "Ring of Kafrene", "Eadu", "Jedha", "Scarif", "Death Star"],
+        "characters": ["Jyn Erso", "Cassian Andor", "K-2SO", "Saw Gerrera", "Galen Erso", "Lyra Erso", "Bodhi Rook", "Melshi", "Chirrut Îmwe", "Baze Malbus", "Mon Mothma", "Jan Dodonna", "Bail Organa", "Davits Draven", "Admiral Raddus", "Wilhuff Tarkin", "Orson Krennic", "Darth Vader"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 0,
+        "endYear": 1,
+        "name": "Star Wars: Episode IV A New Hope",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["Episode", "Episode IV", "Movie", "Live Action", "Kessel Run", "Tatooine", "Death Star", "Alderaan", "Yavin IV", "Battle of Yavin"],
+        "characters": ["Leia Organa", "Darth Vader", "Luke Skywalker", "Ben Kenobi", "Obi-Wan Kenobi", "Wilhuff Tarkin", "Han Solo", "Chewbacca"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 3,
+        "endYear": 3,
+        "name": "Star Wars: Episode V The Empire Strikes Back",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["Episode", "Episode V", "Movie", "Live Action", "Hoth", "Dagobah", "Cloud City", "Bespin"],
+        "characters": ["Leia Organa", "Darth Vader", "Luke Skywalker", "Ben Kenobi", "Obi-Wan Kenobi", "Yoda", "Lando Calrissian", "Bobba Fett", "Shiv Palpatine", "Emperor", "Han Solo", "Chewbacca"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 4,
+        "endYear": 4,
+        "name": "Star Wars: Episode VI Return of the Jedi",
+        "description": "",
+        "eras": ["Empire", "Rebellion"],
+        "tags": ["Episode", "Episode Vı", "Movie", "Live Action", "Tatooine", "Dagobah", "Endor"],
+        "characters": ["Leia Organa", "Darth Vader", "Luke Skywalker", "Ben Kenobi", "Obi-Wan Kenobi", "Yoda", "Lando Calrissian", "Bobba Fett", "Jabba the Hutt", "Shiv Palpatine", "Emperor", "Han Solo", "Chewbacca"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 9,
+        "endYear": 9,
+        "name": "Star Wars: The Mandalorian Season 1",
+        "description": "",
+        "eras": ["New Republic"],
+        "tags": ["TV", "Live Action", "Mandalorian", "Season 1", "Razor Crest", "Nevarro", "Pagodon", "Arvala-7", "Sorgan", "Tatooine"],
+        "characters": ["Din Djarin", "Grogu", "Greef Karga", "Kuiil", "Penn Pershing", "IG-11", "Carasynthia Dune", "Moff Gideon"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 9,
+        "endYear": 9,
+        "name": "Star Wars: The Mandalorian Season 2",
+        "description": "",
+        "eras": ["New Republic"],
+        "tags": ["TV", "Live Action", "Mandalorian", "Season 2"],
+        "characters": ["Din Djarin", "Grogu", "Greef Karga", "Kuiil", "Penn Pershing", "Carasynthia Dune", "Bo-Katan Kryze", "Moff Gideon", "Luke Skywalker"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 9,
+        "endYear": 9,
+        "name": "Star Wars: The Mandalorian Season 3",
+        "description": "",
+        "eras": ["New Republic"],
+        "tags": ["TV", "Live Action", "Mandalorian", "Season 3"],
+        "characters": ["Din Djarin", "Grogu", "Greef Karga", "Penn Pershing", "Bo-Katan Kryze", "Moff Gideon"],
+        "isCanon": true,
+        "isMeta": true
+    },
+    {
+        "startYear": 9,
+        "endYear": 9,
+        "name": "Star Wars: The Book of Bobba Fett",
+        "description": "",
+        "eras": ["New Republic"],
+        "tags": ["TV", "Live Action", "Mandalorian", "Tatooine"],
+        "characters": ["Bobba Fett", "Fennec Shand", "Din Djarin", "Ahsoka Tano", "Luke Skywalker", "Cad Bane"],
+        "isCanon": true,
+        "isMeta": true
+    }
+]
