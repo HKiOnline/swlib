@@ -1,0 +1,1140 @@
+[
+    {
+        "name":"Imperial I-class Star Destroyer",
+        "title": "Imperial-class Star Destroyer",
+        "faction": "empire",
+        "points": 110,
+        "sizeClass": "large",
+        "hull": 11,
+        "antiSquadron": ["black", "blue"],
+        "defense": ["brace", "redirect", "redirect", "contain"],
+        "command": 3,
+        "squadron": 4,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":4,
+                "blue": 2,
+                "red": 3,
+                "black": 3
+            },
+            "left": {
+                "shield":3,
+                "blue": 0,
+                "red": 2,
+                "black": 2
+            },
+            "right": {
+                "shield":3,
+                "blue": 0,
+                "red": 2,
+                "black": 2
+            },
+            "rear": {
+                "shield":2,
+                "blue": 2,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "offensive retrofit", "ion cannons", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Imperial II-class Star Destroyer",
+        "title": "Imperial-class Star Destroyer",
+        "faction": "empire",
+        "points": 120,
+        "sizeClass": "large",
+        "hull": 11,
+        "antiSquadron": ["blue", "blue"],
+        "defense": ["brace", "redirect", "redirect", "contain"],
+        "command": 3,
+        "squadron": 4,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":4,
+                "blue": 4,
+                "red": 4,
+                "black": 0
+            },
+            "left": {
+                "shield":3,
+                "blue": 2,
+                "red": 2,
+                "black": 0
+            },
+            "right": {
+                "shield":3,
+                "blue": 2,
+                "red": 2,
+                "black": 0
+            },
+            "rear": {
+                "shield":2,
+                "blue": 2,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "defensive retrofit", "ion cannons", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Quasar Fire I-class Cruiser-Carrier",
+        "title":"Imperial Light Carrier",
+        "faction": "empire",
+        "points": 54,
+        "sizeClass": "medium",
+        "hull": 6,
+        "antiSquadron": ["blue"],
+        "defense": ["brace", "redirect"],
+        "command": 2,
+        "squadron": 4,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":2,
+                "blue": 3,
+                "red": 0,
+                "black": 0
+            },
+            "left": {
+                "shield":2,
+                "blue": 2,
+                "red": 0,
+                "black": 0
+            },
+            "right": {
+                "shield":2,
+                "blue": 2,
+                "red": 0,
+                "black": 0
+            },
+            "rear": {
+                "shield":1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "offensive retrofit"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Quasar Fire II-class Cruiser-Carrier",
+        "title":"Imperial Light Carrier",
+        "faction": "empire",
+        "points": 61,
+        "sizeClass": "medium",
+        "hull": 6,
+        "antiSquadron": ["red"],
+        "defense": ["brace", "redirect"],
+        "command": 2,
+        "squadron": 4,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":2,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            },
+            "left": {
+                "shield":2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            },
+            "right": {
+                "shield":2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            },
+            "rear": {
+                "shield":1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "weapons team", "offensive retrofit"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Gladiator I-class Star Destroyer",
+        "title":"Gladiator-class Star Destroyer",
+        "faction": "empire",
+        "points": 56,
+        "sizeClass": "small",
+        "hull": 5,
+        "antiSquadron": ["blue"],
+        "defense": ["evade", "brace", "redirect"],
+        "command": 2,
+        "squadron": 2,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":3,
+                "blue": 0,
+                "red": 2,
+                "black": 2
+            },
+            "left": {
+                "shield":2,
+                "blue": 0,
+                "red": 0,
+                "black": 4
+            },
+            "right": {
+                "shield":2,
+                "blue": 0,
+                "red": 0,
+                "black": 4
+            },
+            "rear": {
+                "shield":1,
+                "blue": 0,
+                "red": 1,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "support team", "ordnance"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Gladiator II-class Star Destroyer",
+        "title":"Gladiator-class Star Destroyer",
+        "faction": "empire",
+        "points": 62,
+        "sizeClass": "small",
+        "hull": 5,
+        "antiSquadron": ["blue", "blue"],
+        "defense": ["evade", "brace", "redirect"],
+        "command": 2,
+        "squadron": 2,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield":3,
+                "blue": 0,
+                "red": 2,
+                "black": 2
+            },
+            "left": {
+                "shield":2,
+                "blue": 0,
+                "red": 1,
+                "black": 3
+            },
+            "right": {
+                "shield":2,
+                "blue": 0,
+                "red": 1,
+                "black": 3
+            },
+            "rear": {
+                "shield":1,
+                "blue": 0,
+                "red": 1,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "support team", "ordnance"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Raider I-class Corvette",
+        "title":"Raider-class Corvette",
+        "faction": "empire",
+        "points": 44,
+        "sizeClass": "small",
+        "hull": 4,
+        "antiSquadron": ["black", "black"],
+        "defense": ["evade", "evade", "brace"],
+        "command": 1,
+        "squadron": 1,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [2, 2, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [0, 1, 1, 1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 2,
+                "blue": 2,
+                "red": 0,
+                "black": 2
+            },
+            "left": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 1,
+                "red": 0,
+                "black": 1
+            },
+            "rear": {
+                "shield":2,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "ordnance"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Raider II-class Corvette",
+        "title":"Raider-class Corvette",
+        "faction": "empire",
+        "points": 48,
+        "sizeClass": "small",
+        "hull": 4,
+        "antiSquadron": ["blue", "black"],
+        "defense": ["evade", "evade", "brace"],
+        "command": 1,
+        "squadron": 1,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [2, 2, -1, -1],
+            "speed3": [0, 1, 1, -1],
+            "speed4": [0, 1, 1, 1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 2,
+                "blue": 3,
+                "red": 0,
+                "black": 1
+            },
+            "left": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 1,
+                "red": 0,
+                "black": 1
+            },
+            "rear": {
+                "shield":2,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "ion cannons"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Gozanti-class Cruisers",
+        "title":"Gozanti-class",
+        "faction": "empire",
+        "points": 23,
+        "sizeClass": "small",
+        "hull": 3,
+        "antiSquadron": ["black"],
+        "defense": ["evade", "scatter"],
+        "command": 1,
+        "squadron": 2,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [1, 1, 0, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            },
+            "left": {
+                "shield": 1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            },
+            "right": {
+                "shield": 1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            },
+            "rear": {
+                "shield":1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "fleet support", "offensive retrofit"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Gozanti-class Assault Carriers",
+        "title":"Gozanti-class",
+        "faction": "empire",
+        "points": 28,
+        "sizeClass": "small",
+        "hull": 3,
+        "antiSquadron": ["blue"],
+        "defense": ["evade", "scatter"],
+        "command": 1,
+        "squadron": 2,
+        "engineering": 2,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [1, 1, 0, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 1,
+                "blue": 0,
+                "red": 1,
+                "black": 0
+            },
+            "left": {
+                "shield": 1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            },
+            "right": {
+                "shield": 1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            },
+            "rear": {
+                "shield":1,
+                "blue": 1,
+                "red": 0,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "fleet support", "offensive retrofit"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Victory I-class Star Destroyer",
+        "title":"Victory-class Star Destroyer",
+        "faction": "empire",
+        "points": 73,
+        "sizeClass": "medium",
+        "hull": 8,
+        "antiSquadron": ["blue"],
+        "defense": ["brace", "evade", "evade"],
+        "command": 3,
+        "squadron": 3,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [0, 1, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 3,
+                "blue": 0,
+                "red": 3,
+                "black": 3
+            },
+            "left": {
+                "shield": 3,
+                "blue": 0,
+                "red": 2,
+                "black": 1
+            },
+            "right": {
+                "shield": 3,
+                "blue": 0,
+                "red": 2,
+                "black": 1
+            },
+            "rear": {
+                "shield":1,
+                "blue": 0,
+                "red": 2,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "ordnance", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Victory II-class Star Destroyer",
+        "title":"Victory-class Star Destroyer",
+        "faction": "empire",
+        "points": 85,
+        "sizeClass": "medium",
+        "hull": 8,
+        "antiSquadron": ["blue"],
+        "defense": ["brace", "evade", "evade"],
+        "command": 3,
+        "squadron": 3,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [0, 1, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 3,
+                "blue": 3,
+                "red": 3,
+                "black": 0
+            },
+            "left": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            },
+            "right": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            },
+            "rear": {
+                "shield": 1,
+                "blue": 0,
+                "red": 2,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "offensive retrofit", "ion cannons", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Interdictor Suppression Refit",
+        "title":"Interdictor",
+        "faction": "empire",
+        "points": 90,
+        "sizeClass": "medium",
+        "hull": 9,
+        "antiSquadron": ["blue"],
+        "defense": ["brace", "redirect", "contain", "contain"],
+        "command": 2,
+        "squadron": 2,
+        "engineering": 5,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 3,
+                "blue": 3,
+                "red": 1,
+                "black": 0
+            },
+            "left": {
+                "shield": 2,
+                "blue": 3,
+                "red": 1,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 3,
+                "red": 1,
+                "black": 0
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 2,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "support team", "offensive retrofit", "experimental retrofit", "experimental retrofit", "ion cannons"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Interdictor Combat Refit",
+        "title":"Interdictor",
+        "faction": "empire",
+        "points": 93,
+        "sizeClass": "medium",
+        "hull": 9,
+        "antiSquadron": ["black", "blue"],
+        "defense": ["brace", "redirect", "contain", "contain"],
+        "command": 2,
+        "squadron": 2,
+        "engineering": 5,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 3,
+                "blue": 2,
+                "red": 2,
+                "black": 0
+            },
+            "left": {
+                "shield": 2,
+                "blue": 2,
+                "red": 2,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 2,
+                "red": 2,
+                "black": 0
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 2,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "support team", "offensive retrofit", "experimental retrofit", "ion cannons"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Onager-class Star Destroyer",
+        "title":"Onager-class Star Destroyer",
+        "faction": "empire",
+        "points": 110,
+        "sizeClass": "large",
+        "hull": 10,
+        "antiSquadron": ["blue", "black"],
+        "defense": ["brace", "redirect", "salvo"],
+        "command": 3,
+        "squadron": 2,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [1, 1, 0, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 5,
+                "blue": 2,
+                "red": 2,
+                "black": 1
+            },
+            "special": {
+                "shield": 0,
+                "blue": 2,
+                "red": 3,
+                "black": 2
+            },
+            "left": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 1
+            },
+            "right": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 1
+            },
+            "rear": {
+                "shield": 1,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "weapons team", "turbolasers", "superweapon"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Onager-class Testbed",
+        "title":"Onager-class Star Destroyer",
+        "faction": "empire",
+        "points": 96,
+        "sizeClass": "large",
+        "hull": 10,
+        "antiSquadron": ["black"],
+        "defense": ["brace", "redirect", "salvo"],
+        "command": 3,
+        "squadron": 1,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [1, -1, -1, -1],
+            "speed2": [1, 1, -1, -1],
+            "speed3": [1, 1, 0, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 5,
+                "blue": 2,
+                "red": 1,
+                "black": 1
+            },
+            "special": {
+                "shield": 0,
+                "blue": 2,
+                "red": 3,
+                "black": 2
+            },
+            "left": {
+                "shield": 2,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 1,
+                "red": 2,
+                "black": 0
+            },
+            "rear": {
+                "shield": 1,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "weapons team", "support team", "superweapon"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Arquitens-class Command Cruiser",
+        "title":"Arquitens-class Cruiser",
+        "faction": "empire",
+        "points": 59,
+        "sizeClass": "small",
+        "hull": 5,
+        "antiSquadron": ["blue"],
+        "defense": ["evade", "redirect", "redirect", "contain"],
+        "command": 2,
+        "squadron": 2,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [0, 2, -1, -1],
+            "speed3": [0, 0, 2, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            },
+            "left": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 0
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 0
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "weapons team", "defensive retrofit", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Arquitens-class Light Cruiser",
+        "title":"Arquitens-class Cruiser",
+        "faction": "empire",
+        "points": 54,
+        "sizeClass": "small",
+        "hull": 5,
+        "antiSquadron": ["black"],
+        "defense": ["evade", "redirect", "redirect", "contain"],
+        "command": 2,
+        "squadron": 1,
+        "engineering": 3,
+        "speedChart": {
+            "speed1": [2, -1, -1, -1],
+            "speed2": [0, 2, -1, -1],
+            "speed3": [0, 0, 2, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 2,
+                "blue": 0,
+                "red": 1,
+                "black": 1
+            },
+            "left": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 0
+            },
+            "right": {
+                "shield": 2,
+                "blue": 0,
+                "red": 3,
+                "black": 0
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 0,
+                "red": 1,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "defensive retrofit", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Star Dreadnought Command Prototype",
+        "title":"Super Star Destroyer",
+        "faction": "empire",
+        "points": 220,
+        "sizeClass": "huge",
+        "hull": 22,
+        "antiSquadron": ["blue", "blue"],
+        "defense": ["brace", "brace", "redirect", "redirect", "contain", "contain"],
+        "command": 4,
+        "squadron": 5,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [0, -1, -1, -1],
+            "speed2": [0, 0, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 6,
+                "blue": 4,
+                "red": 4,
+                "black": 0
+            },
+            "left": {
+                "shield": 3,
+                "blue": 1,
+                "red": 3,
+                "black": 1
+            },
+            "right": {
+                "shield": 3,
+                "blue": 1,
+                "red": 3,
+                "black": 1
+            },
+            "left-auxiliary": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 1
+            },
+            "right-auxiliary": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 1
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "officer", "officer", "weapons team", "fleet command", "fleet command", "offensive retrofit", "ion cannons", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Star Dreadnought Assault Prototype",
+        "title":"Super Star Destroyer",
+        "faction": "empire",
+        "points": 250,
+        "sizeClass": "huge",
+        "hull": 22,
+        "antiSquadron": ["red", "blue"],
+        "defense": ["brace", "brace", "redirect", "redirect", "contain", "contain"],
+        "command": 4,
+        "squadron": 5,
+        "engineering": 4,
+        "speedChart": {
+            "speed1": [0, -1, -1, -1],
+            "speed2": [0, 0, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 6,
+                "blue": 4,
+                "red": 5,
+                "black": 0
+            },
+            "left": {
+                "shield": 3,
+                "blue": 2,
+                "red": 3,
+                "black": 1
+            },
+            "right": {
+                "shield": 3,
+                "blue": 2,
+                "red": 3,
+                "black": 1
+            },
+            "left-auxiliary": {
+                "shield": 3,
+                "blue": 2,
+                "red": 2,
+                "black": 1
+            },
+            "right-auxiliary": {
+                "shield": 3,
+                "blue": 2,
+                "red": 2,
+                "black": 1
+            },
+            "rear": {
+                "shield": 2,
+                "blue": 1,
+                "red": 1,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "officer", "officer", "weapons team", "offensive retrofit", "offensive retrofit", "ion cannons", "ion cannons", "turbolasers", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Imperial I-class Star Dreadnought",
+        "title":"Super Star Destroyer",
+        "faction": "empire",
+        "points": 381,
+        "sizeClass": "huge",
+        "hull": 33,
+        "antiSquadron": ["blue", "blue", "black"],
+        "defense": ["brace", "brace", "redirect", "redirect", "contain", "contain"],
+        "command": 4,
+        "squadron": 6,
+        "engineering": 5,
+        "speedChart": {
+            "speed1": [0, -1, -1, -1],
+            "speed2": [0, 0, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 6,
+                "blue": 4,
+                "red": 5,
+                "black": 0
+            },
+            "left": {
+                "shield": 5,
+                "blue": 3,
+                "red": 3,
+                "black": 1
+            },
+            "right": {
+                "shield": 5,
+                "blue": 3,
+                "red": 3,
+                "black": 1
+            },
+            "left-auxiliary": {
+                "shield": 5,
+                "blue": 3,
+                "red": 2,
+                "black": 1
+            },
+            "right-auxiliary": {
+                "shield": 5,
+                "blue": 3,
+                "red": 2,
+                "black": 1
+            },
+            "rear": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "officer", "officer", "officer", "weapons team", "fleet command", "fleet command", "fleet command", "fleet command", "offensive retrofit", "ion cannons", "turbolasers"],
+            "equipped": []
+        }
+    },
+    {
+        "name":"Imperial II-class Star Dreadnought",
+        "title":"Super Star Destroyer",
+        "faction": "empire",
+        "points": 411,
+        "sizeClass": "huge",
+        "hull": 33,
+        "antiSquadron": ["red", "blue", "black"],
+        "defense": ["brace", "brace", "redirect", "redirect", "contain", "contain"],
+        "command": 4,
+        "squadron": 6,
+        "engineering": 5,
+        "speedChart": {
+            "speed1": [0, -1, -1, -1],
+            "speed2": [0, 0, -1, -1],
+            "speed3": [-1, -1, -1, -1],
+            "speed4": [-1, -1, -1, -1]
+        },
+        "hullZone": {
+            "front": {
+                "shield": 6,
+                "blue": 5,
+                "red": 5,
+                "black": 0
+            },
+            "left": {
+                "shield": 5,
+                "blue": 3,
+                "red": 4,
+                "black": 1
+            },
+            "right": {
+                "shield": 5,
+                "blue": 3,
+                "red": 4,
+                "black": 1
+            },
+            "left-auxiliary": {
+                "shield": 5,
+                "blue": 3,
+                "red": 3,
+                "black": 1
+            },
+            "right-auxiliary": {
+                "shield": 5,
+                "blue": 3,
+                "red": 3,
+                "black": 1
+            },
+            "rear": {
+                "shield": 3,
+                "blue": 1,
+                "red": 2,
+                "black": 1
+            }
+        },
+        "upgrades": {
+            "slots": ["officer", "officer", "officer", "officer", "weapons team", "fleet command", "offensive retrofit", "offensive retrofit", "ion cannons", "ion cannons", "turbolasers", "turbolasers"],
+            "equipped": []
+        }
+    }
+]

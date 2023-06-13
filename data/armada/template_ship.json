@@ -1,0 +1,41 @@
+[
+    {
+        "name":"",
+        "faction": "empire | rebel",
+        "points": 0,
+        "sizeClass": "medium",
+        "hull": 0,
+        "antiSquadron": 0,
+        "defense": [],
+        "command": 0,
+        "squadron": 0,
+        "engineering": 0,
+        "speedChart": {},
+        "hullZone": {
+            "front": {
+                "shield":0,
+                "blue": 0,
+                "red": 0,
+                "black": 0
+            },
+            "left": {
+                "shield":0,
+                "blue": 0,
+                "red": 0,
+                "black": 0
+            },
+            "right": {
+                "shield":0,
+                "blue": 0,
+                "red": 0,
+                "black": 0
+            },
+            "rear": {
+                "shield":0,
+                "blue": 0,
+                "red": 0,
+                "black": 0
+            }
+        }
+    }
+]

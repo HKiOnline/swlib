@@ -1,0 +1,24 @@
+[
+    {
+        "name": "X-Wing Squadron",
+        "type": "X-Wing",
+        "points": 13,
+        "speed": 3,
+        "hull": 5,
+        "antiSquadron": 4,
+        "antiShip": 1,
+        "keywords": [
+            {
+                "type": "bomber",
+                "rank": null,
+                "text": "While attacking a ship, each of your critical hit icons adds 1 damage to the damage total and you can resolve a critical effect."
+            },
+            {
+                "type": "escort",
+                "rank": null,
+                "text": "Squadrons you are engaged with cannot attack squadrons that lack ESCORT unless performing a COUNTER attack."
+            }
+        ]
+
+    }
+]
